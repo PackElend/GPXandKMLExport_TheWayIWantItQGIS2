@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/GPXandKMLExport_TheWayIWantItQGIS2" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
